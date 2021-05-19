@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: db34110be218d3c46aec5d0266753c2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CellConstruct: {fileID: 1917890711018192, guid: 337fb0e80a47197499ed529f330e1413,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
